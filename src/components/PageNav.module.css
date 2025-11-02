@@ -1,0 +1,13 @@
+.nav {
+  background-color: gold;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+/*? :global(class) => function is for declaring global classes */
+.nav :global(.active) {
+  background-color: red;
+}
