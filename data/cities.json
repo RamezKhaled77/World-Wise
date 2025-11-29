@@ -25,18 +25,6 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "03cd",
       "cityName": "El Dabaa",
       "country": "Egypt",
@@ -46,6 +34,18 @@
       "position": {
         "lat": "30.20383399987728",
         "lng": "28.47124892605468"
+      }
+    },
+    {
+      "id": "0243",
+      "cityName": "Sowdari District",
+      "country": "Sudan (the)",
+      "emoji": "🇸🇩",
+      "date": "2025-11-29T12:07:47.799Z",
+      "notes": "",
+      "position": {
+        "lat": "14.408672617440963",
+        "lng": "29.804342558387866"
       }
     }
   ]

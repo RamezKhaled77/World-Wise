@@ -32,3 +32,15 @@
   color: var(--color-light--1);
   margin-bottom: 2.5rem;
 }
+
+.mutedBtn {
+  cursor: not-allowed;
+  text-decoration: none;
+  font-size: 1.6rem;
+  padding: 1rem 3rem;
+  border-radius: 0.5rem;
+  color: #ccc;
+  background-color: #555;
+  opacity: 0.7;
+  transition: background-color 0.3s, color 0.3s;
+}
